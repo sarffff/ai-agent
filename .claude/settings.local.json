@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 .claude/skills/ui-ux-pro-max/scripts/search.py \"security audit platform dark mode login glassmorphism\" --design-system -p \"Sentinel KB\")",
+      "Bash(python .claude/skills/ui-ux-pro-max/scripts/search.py \"security audit platform dark mode login glassmorphism\" --design-system -p \"Sentinel KB\")",
+      "Bash(npm run *)",
+      "Bash(python .claude/skills/ui-ux-pro-max/scripts/search.py \"toast notification message alert feedback\" --domain ux -n 10)",
+      "Bash(python .claude/skills/ui-ux-pro-max/scripts/search.py \"animation entrance exit transition micro-interaction\" --domain ux -n 10)",
+      "mcp__Claude_Preview__preview_start"
+    ]
+  }
+}
